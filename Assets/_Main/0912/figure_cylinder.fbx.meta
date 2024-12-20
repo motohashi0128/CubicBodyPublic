@@ -1,0 +1,230 @@
+fileFormatVersion: 2
+guid: a8d800974ab60804cb6c18437008c5c3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: back
+    100002: //RootNode
+    100004: jo
+    100006: jo1
+    100008: jo10
+    100010: jo11
+    100012: jo12
+    100014: jo13
+    100016: jo14
+    100018: jo15
+    100020: jo16
+    100022: jo17
+    100024: jo18
+    100026: jo2
+    100028: jo3
+    100030: jo4
+    100032: jo5
+    100034: jo6
+    100036: jo7
+    100038: jo8
+    100040: jo9
+    100042: joint2
+    100044: joint2 1
+    100046: joint2 2
+    100048: joint2 3
+    100050: joint2 4
+    100052: pCylinder1
+    100054: joint
+    100056: joint1
+    100058: joint10
+    100060: joint11
+    100062: joint12
+    100064: joint13
+    100066: joint14
+    100068: joint15
+    100070: joint16
+    100072: joint17
+    100074: joint18
+    100076: joint19
+    100078: joint20
+    100080: joint21
+    100082: joint22
+    100084: joint23
+    100086: joint3
+    100088: joint4
+    100090: joint5
+    100092: joint6
+    100094: joint7
+    100096: joint8
+    100098: joint9
+    100100: face_cylinder
+    100102: foot_L
+    100104: foot_R
+    100106: pCube1
+    100108: pCube1 1
+    400000: back
+    400002: //RootNode
+    400004: jo
+    400006: jo1
+    400008: jo10
+    400010: jo11
+    400012: jo12
+    400014: jo13
+    400016: jo14
+    400018: jo15
+    400020: jo16
+    400022: jo17
+    400024: jo18
+    400026: jo2
+    400028: jo3
+    400030: jo4
+    400032: jo5
+    400034: jo6
+    400036: jo7
+    400038: jo8
+    400040: jo9
+    400042: joint2
+    400044: joint2 1
+    400046: joint2 2
+    400048: joint2 3
+    400050: joint2 4
+    400052: pCylinder1
+    400054: joint
+    400056: joint1
+    400058: joint10
+    400060: joint11
+    400062: joint12
+    400064: joint13
+    400066: joint14
+    400068: joint15
+    400070: joint16
+    400072: joint17
+    400074: joint18
+    400076: joint19
+    400078: joint20
+    400080: joint21
+    400082: joint22
+    400084: joint23
+    400086: joint3
+    400088: joint4
+    400090: joint5
+    400092: joint6
+    400094: joint7
+    400096: joint8
+    400098: joint9
+    400100: face_cylinder
+    400102: foot_L
+    400104: foot_R
+    400106: pCube1
+    400108: pCube1 1
+    2000000: back
+    2100000: lambert1
+    2100002: cylinder
+    2100004: face
+    2100006: foot
+    2300000: face_cylinder
+    2300002: pCube1
+    2300004: pCube1 1
+    3300000: face_cylinder
+    3300002: pCube1
+    3300004: pCube1 1
+    4300000: pCylinder1
+    4300002: face_cylinder
+    4300004: pCube1
+    4300006: pCube1
+    9500000: //RootNode
+    13700000: pCylinder1
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cylinder
+    second: {fileID: 2100000, guid: de89f6fee4403a04e9e071cdca3cbad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: face
+    second: {fileID: 2100000, guid: 397e79c3030a80d468d6ecf7f20a54e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foot
+    second: {fileID: 2100000, guid: 2cb4710539e10f54ea86d48aec2ecf35, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
